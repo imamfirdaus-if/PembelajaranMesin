@@ -1,4 +1,4 @@
-Global Rank,Stars,Username,Country,CountryRank,Rating,HighestRating,FullySolved,Partially Solved,Last Contest,Institute
+Global Rank,Stars,Username,Country,Country_Rank,Rating,Highest_Rating,Fully_Solved,Partially Solved,Last Contest,Institute
 1,7,gennady.korotkevich,Belarus,1.0,3713,3713,373,2,2020-08-29 22:30:00,"Saint Petersburg National Research University of Information Technologies, Mechanics and Optics"
 2,7,rns4,North Korea,1.0,3061,3061,317,4,2020-06-15 15:00:00,Kim Il-sung University
 3,7,kutengine,North Korea,2.0,3046,3046,255,1,2018-04-17 15:00:00,Kim Chaek University of Technology
